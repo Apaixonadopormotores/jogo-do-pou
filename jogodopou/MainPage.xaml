@@ -7,8 +7,8 @@
         <Image 
             x:Name="imgCharacter"
            Source="https://th.bing.com/th/id/OIG1.vNhN_XoygAELp1JVIgMy?pid=ImgGn"
-           HeightRequest="400"
-           Margin="0"
+           HeightRequest="1000"
+           Margin="10"
            Aspect="AspectFill"
            VerticalOptions="End"/>
 
