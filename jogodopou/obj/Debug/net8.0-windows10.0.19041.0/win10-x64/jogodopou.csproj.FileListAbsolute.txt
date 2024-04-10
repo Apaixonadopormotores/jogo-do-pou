@@ -396,3 +396,7 @@ C:\Users\Aluno\jogo-do-pou\jogodopou\obj\Debug\net8.0-windows10.0.19041.0\win10-
 C:\Users\Aluno\jogo-do-pou\jogodopou\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\Aluno\jogo-do-pou\jogodopou\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\Aluno\jogo-do-pou\jogodopou\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Aluno\jogo-do-pou\jogodopou\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\opala.scale-100.webp
+C:\Users\Aluno\jogo-do-pou\jogodopou\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fordmustang.scale-100.jpg
+C:\Users\Aluno\jogo-do-pou\jogodopou\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\opala.scale-100.webp
+C:\Users\Aluno\jogo-do-pou\jogodopou\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\fordmustang.scale-100.jpg
