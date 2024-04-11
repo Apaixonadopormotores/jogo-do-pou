@@ -32826,11 +32826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\jogo-do-pou\\jogodopou\\jogodopou.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\jogo-do-pou-1\\jogodopou\\jogodopou.csproj",
       "projectName": "jogodopou",
-      "projectPath": "C:\\Users\\Aluno\\jogo-do-pou\\jogodopou\\jogodopou.csproj",
+      "projectPath": "C:\\Users\\Aluno\\jogo-do-pou-1\\jogodopou\\jogodopou.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\jogo-do-pou\\jogodopou\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\jogo-do-pou-1\\jogodopou\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

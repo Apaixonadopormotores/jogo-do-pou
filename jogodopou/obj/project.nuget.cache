@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Qajc82qIi8akqMl6BUFPiR/IxTIxSIVAayAm6Em/FheW+78n1KQREEW8LtAy1FnwOZdNDgixSwVPgMn96MgZA==",
+  "dgSpecHash": "JaHCS9ZHj5/HXCVTjgKLU30wZkGukFts8wBseXTz3WebW2IP/TLt6dBMTQID9GfD5FwisPD4ZLsi8iSR57RtyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\jogo-do-pou\\jogodopou\\jogodopou.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\jogo-do-pou-1\\jogodopou\\jogodopou.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-rc.1.23419.4\\microsoft.extensions.configuration.8.0.0-rc.1.23419.4.nupkg.sha512",
